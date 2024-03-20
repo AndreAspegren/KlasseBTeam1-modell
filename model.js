@@ -58,7 +58,7 @@ let model = {
             levelOverview: {
                 exp: null,
                 level: null,
-                unlocks: []
+                unlocks: [],
             },
             settings: {
                 darkMode: true,
@@ -77,7 +77,6 @@ let model = {
     },
 }
 
-'app, data, input'
 
 
 
