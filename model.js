@@ -39,7 +39,7 @@ let model = {
         events: [
             {
                 id: 0,
-                eventName: 'Gåtur',
+                eventName: 'Gåtur med Bjarne',
                 creator: 'Bjarne',
                 date: '2024-05-05',
                 participants: [],
